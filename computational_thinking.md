@@ -1,4 +1,5 @@
-**BOLD** - key words
+__**BOLD**__ - key words
+
 *ITALICS* useful words
 
 # Key Definitions
@@ -9,7 +10,7 @@ The process of **breaking down** a *complex* problem into **smaller tasks** whic
 - allows you to view a large task in manageble steps
 
 #### Example
-[https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_876/https://www.knowitallninja.com/wp-content/uploads/2018/10/1.2.jpg](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_876/https://www.knowitallninja.com/wp-content/uploads/2018/10/1.2.jpg)
+![https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_876/https://www.knowitallninja.com/wp-content/uploads/2018/10/1.2.jpg](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_876/https://www.knowitallninja.com/wp-content/uploads/2018/10/1.2.jpg)
 
 #### Resources
 - Evaluating a solution: https://www.bbc.co.uk/bitesize/guides/zssk87h/revision/1
