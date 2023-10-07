@@ -2,8 +2,17 @@
 
 # Key Definitions
 
+
+## Computational Thinking
+> a
+- b
+
+#### Example
+
+#### Resources
+
 ## Decomposition
-> The process of ***breaking down*** a ***complex problem*** into ***smaller tasks*** which are ***easier to understand*** and work through.
+> The process of ***breaking down*** a ***complex problem*** into ***smaller sub-tasks*** which are ***easier to understand*** and work through.
 - similar to how when an organism decomposes, it is broken down into smaller parts
 - allows you to view a large task in manageble steps
 
@@ -14,3 +23,48 @@
 - Evaluating a solution: https://www.bbc.co.uk/bitesize/guides/zssk87h/revision/1
 - Decomposition: https://www.bbc.co.uk/bitesize/guides/zqqfyrd/revision/1
 - Decomposition, Abstraction and sub-programs: https://www.bbc.co.uk/bitesize/guides/z7ddqhv/revision/1
+
+
+## Abstraction
+> a
+- b
+
+#### Example
+
+#### Resources
+
+
+## Sub Programs
+> a
+- b
+
+#### Example
+
+#### Resources
+
+
+## Algorithms
+> a
+- b
+
+#### Example
+
+#### Resources
+
+
+## Truth Tables
+> a
+- b
+
+#### Example
+
+#### Resources
+
+
+## Trace Tables
+> a
+- b
+
+#### Example
+
+#### Resources
