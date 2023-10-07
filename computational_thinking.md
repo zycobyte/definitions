@@ -1,11 +1,9 @@
-__**BOLD**__ - key words
-
-*ITALICS* useful words
+***BOLD*** - key words
 
 # Key Definitions
 
 ## Decomposition
-The process of **breaking down** a *complex* problem into **smaller tasks** which are **easier to understand** and work through.
+> The process of ***breaking down*** a ***complex problem*** into ***smaller tasks*** which are ***easier to understand*** and work through.
 - similar to how when an organism decomposes, it is broken down into smaller parts
 - allows you to view a large task in manageble steps
 
