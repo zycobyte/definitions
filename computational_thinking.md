@@ -106,7 +106,7 @@ Built in sub programs exist in python, such as the int and str functions which c
 
 ## Truth Tables
 > a
-- b
+- The number of rows will always be 2 to the power of the number of inputs
 
 ##### Pros
 - 
