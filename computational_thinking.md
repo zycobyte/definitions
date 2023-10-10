@@ -192,8 +192,8 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 
 
 ## Procedure
-> a
-- b
+> A procedure is a ***block of code*** that is called to ***perform a task***.
+- does ***NOT*** return a value
 
 ##### Pros
 - 
@@ -206,8 +206,8 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 
 
 ## Function
-> a
-- b
+> A function is a ***block of code*** that is called to ***perform a task*** and will ***return one or more values***
+- returns values
 
 ##### Pros
 - 
