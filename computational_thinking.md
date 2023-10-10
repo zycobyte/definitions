@@ -229,7 +229,7 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 - 
 
 #### Example
-![[https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png)
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png)
 
 #### Resources
 - Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
@@ -244,7 +244,7 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 - 
 
 #### Example
-![[https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png)
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png)
 
 #### Resources
 - Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
