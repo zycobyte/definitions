@@ -25,7 +25,7 @@ You must think logically to break up the problem into a smaller and smaller grou
 ```
 
 #### Resources
-- Intro into computational thinking: https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1
+- Intro into computational thinking: https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/3
 - Computational thinking, decomposition and abstraction: https://www.bbc.co.uk/bitesize/guides/z4rbcj6/revision/1
 - Applications of computational thinking: https://www.bbc.co.uk/bitesize/topics/zbg7gwx
 
@@ -94,18 +94,17 @@ Built in sub programs exist in python, such as the int and str functions which c
 - Decomposition, Abstraction and sub-programs: https://www.bbc.co.uk/bitesize/guides/z7ddqhv/revision/3
 
 ## Algorithms
-> a
-- b
+> An algorithm is a set of ***step by step instructions*** that are to be followed to ***achieve the required result***
+- Can be represented as program code, [psuedo code](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#pseudo-code), [written desctiptions](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#written-descriptions) or [flow charts](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#flow-charts)
 
-##### Pros
-- 
-##### Cons
-- 
+##### Pros & Cons
+- pros and cons are related to the efficiency of the algorithm implemented, such as speed and memory usage
 
 #### Example
+- I will add links to the searching algorithms when we go through them next week
 
 #### Resources
-
+- Algorithms: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/1
 
 ## Truth Tables
 > A truth table is a type of table that ***lists all possible inputs and outputs*** for a logical expression
