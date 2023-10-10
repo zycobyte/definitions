@@ -229,12 +229,9 @@ def area(width, height):
 
 ## Arithmetic Operators
 > Arithmetic operators are the mathematical operators that can be performed on variables and data.
-- b
-
-##### Pros
-- 
-##### Cons
-- 
+- ***a DIV b*** is integer division. It is the number of times that b can go into a. it is like doing **a/b** and rounding the number down.
+- ***a MOD b*** is modulous. It is the remainder left over after performing DIV.
+- if ***a MOD b == 0*** then a is a multiple of b. If the result is ***not equal to 0*** then it will always be less than b
 
 #### Example
 ![https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png)
@@ -245,11 +242,6 @@ def area(width, height):
 ## Relational Operators
 > Relational oprerators allow for assignments and enable comparisons on variables and data
 - Can be combined with logical operators (AND, OR, NOT) to add complexity to decisions
-
-##### Pros
-- 
-##### Cons
-- 
 
 #### Example
 ![https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png)
