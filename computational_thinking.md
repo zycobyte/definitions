@@ -73,6 +73,7 @@ Other details are important for planning a journey such as the different lines, 
 #### Resources
 - Computational thinking, decomposition and abstraction: https://www.bbc.co.uk/bitesize/guides/z4rbcj6/revision/3
 - Decomposition, Abstraction and sub-programs: https://www.bbc.co.uk/bitesize/guides/z7ddqhv/revision/1
+- Useful video: https://discord.com/channels/@me/1156995970140221486/1159898169283457074
 
 ## Sub Programs
 > A ***smaller program*** written ***within or imported*** into a ***larger program*** that performs a ***specific task*** and can be ***run any number of times***.
@@ -107,8 +108,11 @@ Built in sub programs exist in python, such as the int and str functions which c
 
 
 ## Truth Tables
-> a
+> A truth table is a type of table that ***lists all possible inputs and outputs*** for a logical expression
 - The number of rows will always be 2 to the power of the number of inputs
+- True may be represented as 1, ON or YES
+- False may be represented as 0, OFF or NO
+- Middle steps can be labled to save space
 
 ##### Pros
 - 
@@ -118,6 +122,8 @@ Built in sub programs exist in python, such as the int and str functions which c
 #### Example
 
 #### Resources
+- Truth tables: https://www.bbc.co.uk/bitesize/guides/zr33rwx/revision/1
+- Video explanation: https://www.youtube.com/watch?v=rwhGZs-U20g
 
 
 ## Trace Tables
