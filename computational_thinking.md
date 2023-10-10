@@ -66,7 +66,7 @@ You must think logically to break up the problem into a smaller and smaller grou
 The london underground has lots of features and details that could be added to a map. Some are not important for a user of the system when planning a journey such as the depth of a station, distance between stations or frequency of trains.
 
 Other details are important for planning a journey such as the different lines, available stations, accessibility options or changes available.
-!https://ichef.bbci.co.uk/images/ic/1008xn/p06rm6k4.jpg](https://ichef.bbci.co.uk/images/ic/1008xn/p06rm6k4.jpg)
+![https://ichef.bbci.co.uk/images/ic/1008xn/p06rm6k4.jpg](https://ichef.bbci.co.uk/images/ic/1008xn/p06rm6k4.jpg)
 
 #### Resources
 - Computational thinking, decomposition and abstraction: https://www.bbc.co.uk/bitesize/guides/z4rbcj6/revision/3
