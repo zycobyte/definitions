@@ -250,20 +250,32 @@ def area(width, height):
 - Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
 
 ## Logic Error
-> a
-- b
+> A logic error is an error in the way the program operates. It runs without any obvious errors however the results are unexpected
+- They are caused by the programer either by making small mistakes or poor design
+- These errors can only be found during bug testing as, according to the computer, there is nothing inherently wrong with the code written
 
-
-#### Example
-
+#### Examples
+- incorrect relational operators (such as < instead of >)
+- incorrect logical operators (such as AND instead of OR)
+- accidental infinite loops
+- incorrect mathematical brackets (1+(2*3)) == 7 vs ((1+2)*3) == 9
+- using the wrong variable
+- poor program design
+  
 #### Resources
 - https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
 
 ## Runtime Error
-> a
-- b
+> A runtime error is an error that occurs while the program is running. It usually results in a crash unless explicitly handled
+- The error is detected by the system during the running of the program and a message will be printed to give info on where and what occurred
 
 #### Example
+- Trying to open a file that does not exist
+- Trying to access an array index that does not exist
+- Trying to do something with a null value
+- Trying to send something over the internet while the system is not connected to any network
+- Trying to convert "Hello, world!" into its numeric value
+Though there are many more and they can be created by you too for specific scenarios in your code
 
 #### Resources
 - https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
@@ -276,8 +288,14 @@ def area(width, height):
 - Other than spelling and punctuation symbols you could have used a variable before it is declared
 - Its like saying "It was a really good time going there with her" and not giving the context "I went to the theme park with mary" until after. 
 
-#### Example
-Common examples you should look for in python is ensuring all brackets are in the right places and correctly closed, that indentation is consistent, that there are colons in all the correct places and that strings have consistent "" or '', though there may be others.
+#### Examples
+Common examples you should look for in python include 
+- ensuring all variables are declared before they are used
+- all brackets are in the right places and correctly closed
+- that indentation is consistent
+- that there are colons in all the correct places
+- that strings have consistent "" or ''
+though there may be others.
 
 #### Resources
 - https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
