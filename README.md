@@ -1,5 +1,7 @@
 # definitions of programming terms
-Above is a repository of definitions for different terms and resources to help study.
+[Course Overview](https://isaaccomputerscience.org/topics/gcse?examBoard=all&stage=all#edexcel)
+
+- [1 Computational Thinking](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md)
 
 
 # revising
