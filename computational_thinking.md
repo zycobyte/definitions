@@ -1,4 +1,4 @@
-***BOLD*** - key words
+***BOLD ITALIC*** - key words
 
 # Key Definitions
 
@@ -73,18 +73,22 @@ Other details are important for planning a journey such as the different lines, 
 - Decomposition, Abstraction and sub-programs: https://www.bbc.co.uk/bitesize/guides/z7ddqhv/revision/1
 
 ## Sub Programs
-> a
-- b
+> A ***smaller program*** written ***within or imported*** into a ***larger program*** that performs a ***specific task*** and can be ***run any number of times***.
+- The two types of programs are procedures and functions
+- When the sub program is complete the main program continues
 
 ##### Pros
-- 
+- Easier to write, test and debug
+- Can be saved seperately and re-used
+- Writing code once and re-using it saves time
 ##### Cons
-- 
+- Must be tested independently and as a part of the whole system
 
 #### Example
+Built in sub programs exist in python, such as the int and str functions which can be called anywhere within a program to convert a string to a number or a number to a string
 
 #### Resources
-
+- Decomposition, Abstraction and sub-programs: https://www.bbc.co.uk/bitesize/guides/z7ddqhv/revision/3
 
 ## Algorithms
 > a
