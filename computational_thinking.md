@@ -19,10 +19,8 @@
 - Requires practice
 
 #### Example
-```
 The game Guess Who is a good example of computational thinking.
 You must think logically to break up the problem into a smaller and smaller group if people. You ignore any irrelevant details (such as excluded characters or details present in no characters) as you focus on finding the solution. Different questions asked (like algorithms) have different efficiencies. For example if 1/100 characters have green eyes then 99% of the time that would be a very inefficient first question to ask. A better question would be to ask about their gender presentation, as you would be able to exclude about half of the options immediately with consistent results.
-```
 
 #### Resources
 - Intro into computational thinking: https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/3
