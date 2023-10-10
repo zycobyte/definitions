@@ -117,6 +117,7 @@ Built in sub programs exist in python, such as the int and str functions which c
 ##### Pros
 - Good for testing logical expressions
 - Easy to read especially with more complex expressions
+- Easier to notice patterns
 ##### Cons
 - Can get large very quickly
 - May be time consuming
@@ -131,12 +132,20 @@ Built in sub programs exist in python, such as the int and str functions which c
 
 
 ## Trace Tables
-> a
-- b
+> ***Tracks the changes*** of variable states throughout program execution
+- If a variable does not change, a cell is left blank
+
+##### Pros
+- Allows you to step through the program execution
+- Good for finding logic errors
+##### Cons
+- May be time consuming
 
 #### Example
+![https://ibcomputerscience.xyz/wp-content/uploads/2018/09/Capture-3.png](https://ibcomputerscience.xyz/wp-content/uploads/2018/09/Capture-3.png)
 
 #### Resources
+Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6 
 
 ------
 
@@ -220,9 +229,10 @@ Built in sub programs exist in python, such as the int and str functions which c
 - 
 
 #### Example
+![[https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179483953446952/image.png)
 
 #### Resources
-
+- Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
 
 ## Relational Operators
 > a
@@ -234,9 +244,10 @@ Built in sub programs exist in python, such as the int and str functions which c
 - 
 
 #### Example
+![[https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161179516505440347/image.png)
 
 #### Resources
-
+- Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
 
 ## Logic Error
 > a
