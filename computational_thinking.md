@@ -115,11 +115,15 @@ Built in sub programs exist in python, such as the int and str functions which c
 - Middle steps can be labled to save space
 
 ##### Pros
-- 
+- Good for testing logical expressions
+- Easy to read especially with more complex expressions
 ##### Cons
-- 
+- Can get large very quickly
+- May be time consuming
 
 #### Example
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161176598331011113/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161176598331011113/image.png)
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161176363127013426/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161176363127013426/image.png)
 
 #### Resources
 - Truth tables: https://www.bbc.co.uk/bitesize/guides/zr33rwx/revision/1
