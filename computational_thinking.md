@@ -253,39 +253,31 @@ def area(width, height):
 > a
 - b
 
-##### Pros
-- 
-##### Cons
-- 
 
 #### Example
 
 #### Resources
-
+- https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
 
 ## Runtime Error
 > a
 - b
 
-##### Pros
-- 
-##### Cons
-- 
-
 #### Example
 
 #### Resources
-
+- https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
 
 ## Syntax Error
-> a
-- b
+> A syntax error is an error that occurs when the code written is incorrectly formatted with regards to how the language defines its rules.
+- A computer may be able to point out where some errors are but will not be able to understand what is written until it is corrected
 
-##### Pros
-- 
-##### Cons
-- 
+- its. like how ive used apostrophies in the wrong place's and have spelt words wrong in this sentance as well as missing out or mis(using) other punctuation symbles  
+- Other than spelling and punctuation symbols you could have used a variable before it is declared
+- Its like saying "It was a really good time going there with her" and not giving the context "I went to the theme park with mary" until after. 
 
 #### Example
+Common examples you should look for in python is ensuring all brackets are in the right places and correctly closed, that indentation is consistent, that there are colons in all the correct places and that strings have consistent "" or '', though there may be others.
 
 #### Resources
+- https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/7
