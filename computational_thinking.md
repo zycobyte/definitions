@@ -77,7 +77,7 @@ Other details are important for planning a journey such as the different lines, 
 
 ## Sub Programs
 > A ***smaller program*** written ***within or imported*** into a ***larger program*** that performs a ***specific task*** and can be ***run any number of times***.
-- The two types of programs are procedures and functions
+- The two types of programs are [procedures](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#procedure) and [functions](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#function)
 - When the sub program is complete the main program continues
 
 ##### Pros
@@ -191,35 +191,46 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 
 
 ## Procedure
-> A procedure is a ***block of code*** that is called to ***perform a task***.
+> A procedure is a ***block of code*** that is called to ***perform a specific task***.
 - does ***NOT*** return a value
 
 ##### Pros
-- 
-##### Cons
-- 
+- Allows you to organise the code
+- Avoid duplicating code
+- Easier to fix bugs or update with new features when the functionality is called from multiple places in the codebase
 
 #### Example
+```python
+def display_message(text):
+    print("pretty formatting here >> ", text)
+```
 
 #### Resources
+- Procedures and functions: https://teachcomputerscience.com/gcse/programming/functions-and-procedures/
+- Programming constructs: https://www.bbc.co.uk/bitesize/guides/z433rwx/revision/11
 
 
 ## Function
-> A function is a ***block of code*** that is called to ***perform a task*** and will ***return one or more values***
+> A function is a ***block of code*** that is called to ***perform a specific task*** and will ***return one or more values***
 - returns values
 
 ##### Pros
-- 
-##### Cons
-- 
+- Allows you to organise the code
+- Avoid duplicating code
+- Easier to fix bugs or update with new features when the functionality is called from multiple places in the codebase
 
 #### Example
+```python
+def area(width, height):
+    return width * height
+```
 
 #### Resources
-
+- Procedures and functions: https://teachcomputerscience.com/gcse/programming/functions-and-procedures/
+- Programming constructs: https://www.bbc.co.uk/bitesize/guides/z433rwx/revision/11
 
 ## Arithmetic Operators
-> a
+> Arithmetic operators are the mathematical operators that can be performed on variables and data.
 - b
 
 ##### Pros
@@ -234,8 +245,8 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 - Algorithms: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/3
 
 ## Relational Operators
-> a
-- b
+> Relational oprerators allow for assignments and enable comparisons on variables and data
+- Can be combined with logical operators (AND, OR, NOT) to add complexity to decisions
 
 ##### Pros
 - 
