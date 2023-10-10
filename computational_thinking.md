@@ -125,3 +125,144 @@ Built in sub programs exist in python, such as the int and str functions which c
 #### Example
 
 #### Resources
+
+------
+
+## Flow Charts
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Pseudo Code
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Written Descriptions
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Procedure
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Function
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Arithmetic Operators
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Relational Operators
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Logic Error
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Runtime Error
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
+
+
+## Syntax Error
+> a
+- b
+
+##### Pros
+- 
+##### Cons
+- 
+
+#### Example
+
+#### Resources
