@@ -94,7 +94,8 @@ Built in sub programs exist in python, such as the int and str functions which c
 ## Algorithms
 > An algorithm is a set of ***step by step instructions*** that are to be followed to ***achieve the required result***
 - Can be represented as program code, [psuedo code](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#pseudo-code), [written desctiptions](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#written-descriptions) or [flow charts](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#flow-charts)
-
+- draft program code may contain syntax errors as long as it is clear
+  
 ##### Pros & Cons
 - pros and cons are related to the efficiency of the algorithm implemented, such as speed and memory usage
 
@@ -147,46 +148,66 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 ------
 
 ## Flow Charts
-> a
-- b
+> A ***diagram*** that represents the overview of a program. They use ***standard symbols*** to represent instructions. ***Flowcharts show a step by step solution***
+- may be called a flow diagram
+- please refer to the example image for the different symbols and their meaning
 
 ##### Pros
-- 
+- Easy to visualise
+- Internationally standardised
 ##### Cons
-- 
+- Large problems can result in large charts
+- Changes can result in a lot of editing re-formatting
 
 #### Example
+![https://bam.files.bbci.co.uk/bam/live/content/zmt4xyc/medium](https://bam.files.bbci.co.uk/bam/live/content/zmt4xyc/medium)
+![https://bam.files.bbci.co.uk/bam/live/content/zdkwhbk/medium](https://bam.files.bbci.co.uk/bam/live/content/zdkwhbk/medium)
 
 #### Resources
-
+Flowcharts: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/3
 
 ## Pseudo Code
-> a
-- b
+> A way of ***describing step by step instructions*** in a code-like format
+- Resembles a programming language
+- Has its own syntax
+- Must be converted to program code to run
 
 ##### Pros
-- 
+- easy to convert to code
+- simple to understand
+- syntax errors not important
+- easy to edit
+
 ##### Cons
-- 
+- harder to see program flow
+- could be time consuming
 
 #### Example
+[List of instructions](https://tools.withcode.uk/ks4pseudo/media/edexcel_pseudocode.pdf)
 
 #### Resources
-
+psuedo code: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/2
+written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
 
 ## Written Descriptions
-> a
-- b
+> An algorithm is layed out as instructions in english
+- short sentances
+- no unnecessary details
+- clear instructions
 
 ##### Pros
-- 
+- no syntz
+- most like english
 ##### Cons
-- 
+- can become over-complicated
+- may become more wordy or descriptive as opposed to instructional
 
 #### Example
+The program prompts the user to enter the width and height. It then calculates the area of a rectangle based on the two numbers. Finally it displays the result on the screen.
 
 #### Resources
-
+written descriptions: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/4
+written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
 
 ## Procedure
 > A procedure is a ***block of code*** that is called to ***perform a specific task***.
@@ -269,7 +290,7 @@ def area(width, height):
 > A runtime error is an error that occurs while the program is running. It usually results in a crash unless explicitly handled
 - The error is detected by the system during the running of the program and a message will be printed to give info on where and what occurred
 
-#### Example
+#### Examples
 - Trying to open a file that does not exist
 - Trying to access an array index that does not exist
 - Trying to do something with a null value
