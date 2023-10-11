@@ -215,6 +215,7 @@ The program prompts the user to enter the width and height. It then calculates t
 
 ##### Pros
 - Allows you to organise the code
+- Can be called many time
 - Avoid duplicating code
 - Easier to fix bugs or update with new features when the functionality is called from multiple places in the codebase
 
@@ -235,6 +236,7 @@ def display_message(text):
 
 ##### Pros
 - Allows you to organise the code
+- Can be called many time
 - Avoid duplicating code
 - Easier to fix bugs or update with new features when the functionality is called from multiple places in the codebase
 
