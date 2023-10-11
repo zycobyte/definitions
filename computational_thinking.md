@@ -135,7 +135,7 @@ Built in sub programs exist in python, such as the int and str functions which c
 
 ##### Pros
 - Allows you to step through the program execution
-- Good for finding logic errors
+- Good for finding [logic errors](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md#logic-error)
 ##### Cons
 - May be time consuming
 
