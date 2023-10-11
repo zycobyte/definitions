@@ -143,7 +143,7 @@ Built in sub programs exist in python, such as the int and str functions which c
 ![https://ibcomputerscience.xyz/wp-content/uploads/2018/09/Capture-3.png](https://ibcomputerscience.xyz/wp-content/uploads/2018/09/Capture-3.png)
 
 #### Resources
-Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6 
+- Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6 
 
 ------
 
@@ -164,7 +164,7 @@ Algoriths: https://www.bbc.co.uk/bitesize/guides/zbssv9q/revision/6
 ![https://bam.files.bbci.co.uk/bam/live/content/zdkwhbk/medium](https://bam.files.bbci.co.uk/bam/live/content/zdkwhbk/medium)
 
 #### Resources
-Flowcharts: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/3
+- Flowcharts: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/3
 
 ## Pseudo Code
 > A way of ***describing step by step instructions*** in a code-like format
@@ -186,8 +186,8 @@ Flowcharts: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/3
 [List of instructions](https://tools.withcode.uk/ks4pseudo/media/edexcel_pseudocode.pdf)
 
 #### Resources
-psuedo code: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/2
-written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
+- psuedo code: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/2
+- written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
 
 ## Written Descriptions
 > An algorithm is layed out as instructions in english
@@ -206,8 +206,8 @@ written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-s
 The program prompts the user to enter the width and height. It then calculates the area of a rectangle based on the two numbers. Finally it displays the result on the screen.
 
 #### Resources
-written descriptions: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/4
-written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
+- written descriptions: https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/4
+- written, psuedo and program code: https://learnlearn.uk/edexcel-igcse-computer-science/pseudocode/
 
 ## Procedure
 > A procedure is a ***block of code*** that is called to ***perform a specific task***.
