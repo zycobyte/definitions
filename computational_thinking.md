@@ -222,7 +222,11 @@ The program prompts the user to enter the width and height. It then calculates t
 #### Example
 ```python
 def display_message(text):
-    print("pretty formatting here >> ", text)
+    print("pretty formatting here >> ", text) #prints a formatted message
+
+procedureOutput = display_message("test")
+print(procedureOutput)
+# As a procedure does not return a value, the procedureOutput variable has no value (represented by the word None in python) and so "None" is shown
 ```
 
 #### Resources
@@ -244,6 +248,10 @@ def display_message(text):
 ```python
 def area(width, height):
     return width * height
+
+functionOutput = area(2,3)
+print(functionOutput)
+# As a function returns a value, in this case 2 * 3, the functionOutput variable has the value 6 and so 6 is shown
 ```
 
 #### Resources
