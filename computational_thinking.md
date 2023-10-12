@@ -196,7 +196,7 @@ Built in sub programs exist in python, such as the int and str functions which c
 - clear instructions
 
 ##### Pros
-- no syntz
+- no syntax
 - most like english
 ##### Cons
 - can become over-complicated
