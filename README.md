@@ -1,5 +1,5 @@
-[OCR Course Overview](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf#GCSE_Comp_Sci_J277_Spec_v2.2.indd%3A.85236%3A1321)
-
+[OCR Course Details](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf#GCSE_Comp_Sci_J277_Spec_v2.2.indd%3A.85236%3A1321)
+[OCR Course Overview](https://isaaccomputerscience.org/topics/gcse?examBoard=all&stage=all#ocr)
 
 # definitions of programming terms
 - [1 Computational Thinking](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md)
