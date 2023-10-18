@@ -3,7 +3,9 @@
 [OCR Course Overview](https://isaaccomputerscience.org/topics/gcse?examBoard=all&stage=all#ocr)
 
 # definitions of programming terms
-- [1 Computational Thinking](https://github.com/zycobyte/definitions/blob/master/computational_thinking.md)
+- [2.1 Algorithms](https://github.com/zycobyte/definitions/blob/master/2.1%20Algorithms.md)
+- [2.2 Programming Fundamentals](https://github.com/zycobyte/definitions/blob/master/2.2%20Programming%20Fundamentals.md)
+- [2.4 Boolean Logic](https://github.com/zycobyte/definitions/blob/master/2.4%20Boolean%20Logic.md)
 
 
 # revising
