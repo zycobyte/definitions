@@ -1,3 +1,10 @@
+**[Back](https://github.com/zycobyte/definitions/blob/master/README.md)**
+
+***BOLD ITALIC*** - key words
+
+# Key Definitions
+
+
 ## Sub Programs
 > A ***smaller program*** written ***within or imported*** into a ***larger program*** that performs a ***specific task*** and can be ***run any number of times***.
 - The two types of programs are [procedures](https://github.com/zycobyte/definitions/blob/master/2.2%20Programming%20Fundamentals.md#procedure) and [functions](https://github.com/zycobyte/definitions/blob/master/2.2%20Programming%20Fundamentals.md#function)
