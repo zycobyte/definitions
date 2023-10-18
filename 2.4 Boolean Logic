@@ -1,0 +1,28 @@
+## Truth Tables
+> A truth table is a type of table that ***lists all possible inputs and outputs*** for a logical expression
+- The number of rows will always be 2 to the power of the number of inputs
+- True may be represented as 1, ON or YES
+- False may be represented as 0, OFF or NO
+- Middle steps can be labled to save space
+
+##### Pros
+- Good for testing logical expressions
+- Easy to read especially with more complex expressions
+- Easier to notice patterns
+##### Cons
+- Can get large very quickly
+- May be time consuming
+
+#### Example
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161176598331011113/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161176598331011113/image.png)
+![https://cdn.discordapp.com/attachments/1158345889845350461/1161176363127013426/image.png](https://cdn.discordapp.com/attachments/1158345889845350461/1161176363127013426/image.png)
+
+#### Resources
+- Truth tables: https://www.bbc.co.uk/bitesize/guides/zr33rwx/revision/1
+- Video explanation: https://www.youtube.com/watch?v=rwhGZs-U20g
+
+
+## Logic Cirvuits
+> A logic circuit uses symbols to represent AND, OR and NOT and lines to connect them, as opposed to the words and brackets used in a formula
+- https://isaaccomputerscience.org/concepts/sys_bool_logic_circuits?examBoard=all&stage=all
+
