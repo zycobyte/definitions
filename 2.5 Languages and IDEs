@@ -1,0 +1,74 @@
+**[Back](https://github.com/zycobyte/definitions/blob/master/README.md)**
+
+***BOLD ITALIC*** - key words
+
+# Key Definitions
+
+# Types of languages
+## High level languages
+> A high level language is a way of programming a computer without knowing the specifics of the hardware in which the program will be running on. It is an abstracted level which allows the programmer to work in a more english-style language as opposed to 1s and 0s.
+- Problem oriented, designed to help solve a particular problem without worrying about the lower levels
+- Programmers can use libraries and built-in functions
+- Must be interpreted or compiled ### TODO LINKS
+- Allows programs to run on many devices
+- A single line of code can be used to perform multiple actions
+
+## pros
+- Easier to understand, write and debug
+- Portable to many devices
+- Libraries and built-in functions can speed up development
+
+## cons
+- Slower than low-level languages
+- Less control over how the program runs internally
+
+## Examples
+- Javascript
+- Python
+- Java
+
+## Resources
+High Level Languages: https://isaaccomputerscience.org/concepts/sys_proglang_high_level?examBoard=all&stage=all
+
+
+## Low level languages
+> A low level language is one which has a direct correlation between its instructions and their binary representation (1:1). These instructions are different depending on the processor that is running the code, and so the code is not portable.
+- Computer oriented, designed to work on a specific system
+- Allows direct control over a systems memory, registers and components
+- Efficient
+- Useful in embedded systems such as a washing machine
+- Useful in device drivers which interact directly with the system and peripherals
+
+## pros
+- Allows for much more efficient code (memory and speed)
+- Allows for more control over how the program processes things and runs
+- Great for embedded systems or systems with very limited memory
+
+## cons
+- non-portable (only works on the processor its designed for)
+- More complex and harder to read, write and debug
+- Programmer must create all functionality as there are no libraries and built-in functions
+
+## Examples
+- Assembly Code
+- Machine Code
+# TODO LINKS
+
+## Resources
+Low Level Languages: https://isaaccomputerscience.org/concepts/sys_proglang_low_level?examBoard=all&stage=all
+
+## Instruction sets
+
+## Assembly code
+
+## Machine code
+
+
+# Translators 
+## Compiler
+
+## Interpreter
+
+## Assemblers 
+
+# IDEs
