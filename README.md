@@ -6,7 +6,7 @@
 - [2.1 Algorithms](https://github.com/zycobyte/definitions/blob/master/2.1%20Algorithms.md)
 - [2.2 Programming Fundamentals](https://github.com/zycobyte/definitions/blob/master/2.2%20Programming%20Fundamentals.md)
 - [2.4 Boolean Logic](https://github.com/zycobyte/definitions/blob/master/2.4%20Boolean%20Logic.md)
-
+- [2.5 Languages and IDEs](https://github.com/zycobyte/definitions/blob/master/2.5 Languages and IDEs.md)
 
 # revising
 ### Key Words
