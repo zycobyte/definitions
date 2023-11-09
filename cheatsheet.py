@@ -9,7 +9,7 @@ The above are at the START OF THE LINE. They all INCREASE the indentation by one
 
 Some key words may START THE LINE but instead they DECREASE the indentation by one like "return", "continue" and "pass" (though you will likely not come across pass in code)
 
-If a keyword appears WITHIN BUT NOT AT THE START such as "True", "False", "in" etc then it DOES NOT CHANGE INDENTATION
+If a keyword typically appears WITHIN BUT NOT AT THE START such as "True", "False", "in" etc then it DOES NOT CHANGE INDENTATION
 
 More complex keywords exist that break these rules but you shouldnt need to learn about those ones for GCSE
 '''
