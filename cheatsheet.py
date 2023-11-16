@@ -212,9 +212,25 @@ array2d = [
 
 '''
 random numbers
+in order to generate a random number, you must tell python you want to use a seperate module that allows for this.
+This is done by telling it to "import random" into the program
+you can then use this module to generate a random number like so:
 '''
+import random
 
+random.randint(1, 10) # random number including both end points
 
 '''
 function and procedures
+Functions and procedures are defined using the key word "def"
+you then give it a name and any arguments within brackets
+this creates a subprogram that can be used many times within the main program without re writing the code
+
+You can have any number of arguments presented, including 0
 '''
+def returns_a_value(some_variable):
+    return some_variable + 1
+
+def does_not_return_a_vaue(some_variable, some_variable2):
+    pass
+
